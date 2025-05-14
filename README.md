@@ -17,3 +17,4 @@ Based on the dataset I have Done the text preprocessing techniques .
          d.From Spacy
 11.Handling the STEMMER
 12.Lemmatization on th dataset 
+Link Of The DataSet : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
